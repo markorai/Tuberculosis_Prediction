@@ -1,1 +1,1 @@
-# Tuberculosis_Prediction
+To run in browser, type in terminal: ~$ streamlit run main.py
